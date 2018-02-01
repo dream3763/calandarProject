@@ -3,8 +3,8 @@ package pok.calandar;
 public class Calandar {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Calandar");
-		System.out.println("������");
+		System.out.println(Hello Calandar);
+		System.out.println(������);
 ㄷㄷㄷ
 
 	}
