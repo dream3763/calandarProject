@@ -4,8 +4,8 @@ public class Calandar {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Calandar");
-		System.out.println("º¹¼±¹Ì");
-
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½");
+ã„·ã„·ã„·
 
 	}
 
