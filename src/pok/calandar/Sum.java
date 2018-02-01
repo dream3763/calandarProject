@@ -17,6 +17,7 @@ public class Sum {
 		int val2 = Integer.parseInt(val[1]);
 		
 		System.out.println(val1+val2);
+		sc.close();
 
 	}
 
