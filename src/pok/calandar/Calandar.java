@@ -5,18 +5,12 @@ import java.util.Scanner;
 public class Calandar {
 
 	public static void main(String[] args) {
-		//두수를 키보드로 입력한다.
-		//두수의 합읠 출력한다.
-		
-		Scanner sc = new Scanner(System.in);
-		String param = sc.nextLine();
-		
-		String[] val = param.split(",");
-		
-		int val1 = Integer.parseInt(val[0]);
-		int val2 = Integer.parseInt(val[1]);
-		
-		System.out.println(val1+val2);
+		System.out.println("월   화   수   목   금   토  일");
+		System.out.println(" 1  2  3  4  5  6  7");
+		System.out.println(" 8  9 10 11 12 13 14");
+		System.out.println("15 16 17 18 19 20 21");
+		System.out.println("22 23 24 25 26 27 28");
+		System.out.println("29 30 31            ");
 	}
 
 }
